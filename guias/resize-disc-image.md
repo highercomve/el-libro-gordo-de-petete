@@ -13,7 +13,6 @@ Montar la imagen original
   
     sudo losetup -f --show ubuntu.img
 
-
 Copiar todo el contenido de la imagen pequeña a la nueva con mas tamaño
 
     sudo dd if=/dev/loop1 of=/dev/loop0
