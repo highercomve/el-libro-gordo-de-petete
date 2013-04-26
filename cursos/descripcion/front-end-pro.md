@@ -3,7 +3,7 @@ Curso de front-end profesional
 
 ## Descripcion 
 
-*Objetivo:*
+**Objetivo:**
 	
 > El objetivo de este curso es que el participante obtenga conocimientos sobre el uso e implementacion de tecnologias de front-end avanzadas, las cuales son utilizadas por: Django, Ruby on Rails, Nodejs, Twitter Bootstrap, Zurb Foundation, entre otros. 
 		 
@@ -12,15 +12,15 @@ Curso de front-end profesional
 * Coffee-script 
 * Herramientas de compilacion de preprocesadores: middleman o jekyll
 
-*Target:* 
+**Target:** 
 	
 > Diseñadores o Desarrolladores con experiencia en el area web, que deseen adquerir o complementar conocimientos sobre nuevas tecnologias en el area del front-end. 
 
-*Requisitos:*
+**Requisitos:**
     
 > Manejo y entendimientos de lenguajes como: HTML/CSS, conocimientos basicos en entornos unix
 
-*Duracion:*
+**Duracion:**
     
 > 16 horas academicas.
 
