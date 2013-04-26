@@ -6,11 +6,11 @@ Curso de preprocesadores front-end
 **Objetivo:**
 	
 > El objetivo de este curso es que el participante obtenga conocimientos sobre el uso e implementacion de tecnologias de front-end avanzadas, las cuales son utilizadas por: Django, Ruby on Rails, Nodejs, Twitter Bootstrap, Zurb Foundation, entre otros. 
-		 
-* Herramientas preprocesadores de HTML como (markdown, haml, erb, slim)
-* Preprocesadores CSS (Sass, Less, Stylus) 
-* Coffee-script 
-* Herramientas de compilacion de preprocesadores: middleman o jekyll
+>		 
+>* Herramientas preprocesadores de HTML como (markdown, haml, erb, slim)
+>* Preprocesadores CSS (Sass, Less, Stylus) 
+>* Coffee-script 
+>* Herramientas de compilacion de preprocesadores: middleman o jekyll
 
 **Target:** 
 	
