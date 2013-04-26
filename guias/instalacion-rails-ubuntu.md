@@ -10,14 +10,17 @@ Actualizacion del gem
     sudo REALLY_GEM_UPDATE_SYSTEM=1 
     gem update --system
 
+Instalacion de Rails
+  
+    gem install rails
+
 Instalacion de clientes de base de datos
 
     # PostgreSQL
-    sudo apt-get install postgresql-client libpq-dev
     gem install pg
 
     # MySQL
-    apt-get install libmysql-ruby1.9.1
+    gem install mysql
 
 > En caso de no tener servidores de Mysql, PHP, Phpmyadmin, etc. 
 > Se puede instalar rapidamente el paquete tasksel para instalacion de Apache, PHP, Mysql
