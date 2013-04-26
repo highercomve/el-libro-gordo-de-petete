@@ -31,9 +31,16 @@ Curso de Ruby on Rails (RoR)
 
 ## Contenido
 
-* Instalacion
+### Instalacion
+
   * Instalacion de Ruby en Linux/Windows
   * Instalacion de RVM (Ruby version manager)
   * Instalacion de GEM (Manejador de gemas ruby)
   * Instalacion de Rails
-  * Bundle
+  * Como funciona el Bundle
+
+### Introduccion
+
+  * Estructura de archivos de un proyecto
+  * Uso de Gemas dentro de Rails
+  * Generadores de archivos
