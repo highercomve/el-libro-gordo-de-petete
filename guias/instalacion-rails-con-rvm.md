@@ -5,7 +5,6 @@ Instalacion de rails con RVM
 
     sudo apt-get update
     sudo apt-get install curl
-
     
     \curl -L https://get.rvm.io | bash -s stable
     
