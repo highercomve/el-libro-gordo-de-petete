@@ -4,13 +4,13 @@ Javascript Front-end (Borrador)
 ** Objetivo: **
 
 > Que el estudiante obtenga o refuerce conocimientos en el uso de javascript para manejar el dom, javascript orientado a objetos, uso de jQuery, creacion de plugins jQuery, creacion de aplicaciones web usando javascript haciendo uso de un framework js cliente (*backbone*).
-
-* OOP Javascript
-* Manejo del DOM
-* jQuery + plugins jQuery
-* Frameworks clientes como Backbone
-* Mejores prácticas JS
-* functions, lambdas, scopes, object literals, chain functions, etc
+>
+>* OOP Javascript
+>* Manejo del DOM
+>* jQuery + plugins jQuery
+>* Frameworks clientes como Backbone
+>* Mejores prácticas JS
+>* functions, lambdas, scopes, object literals, chain functions, etc
 
 ** Target: **
 
