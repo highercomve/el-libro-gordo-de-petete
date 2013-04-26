@@ -1,5 +1,5 @@
-Curso de front-end profesional
-==============================
+Curso de preprocesadores front-end 
+==================================
 
 ## Descripcion 
 
