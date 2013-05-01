@@ -37,10 +37,11 @@ Curso de Ruby on Rails (RoR)
   * Instalacion de RVM (Ruby version manager)
   * Instalacion de GEM (Manejador de gemas ruby)
   * Instalacion de Rails
-  * Como funciona el Bundle
+  * Como funciona y uso del Bundle
 
 ### Introduccion
 
   * Estructura de archivos de un proyecto
   * Uso de Gemas dentro de Rails
-  * Generadores de archivos
+  * Generadores de archivos: Controladores, Modelos, Mailers, etc.
+  * Migraciones
