@@ -1,6 +1,8 @@
 Javascript Front-end (Borrador)
 ===============================
 
+## Descripción
+
 **Objetivo:**
 
 > Que el estudiante obtenga o refuerce conocimientos en el uso de javascript para manejar el dom, javascript orientado a objetos, uso de jQuery, creacion de plugins jQuery, creacion de aplicaciones web usando javascript haciendo uso de un framework js cliente (*backbone*).
@@ -24,6 +26,6 @@ Javascript Front-end (Borrador)
 >* HTML
 >* CSS
 
-**Duracion:**
+**Duración:**
 
-> 25 Horas academicas
+> 25 Horas académicas

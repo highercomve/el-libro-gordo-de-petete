@@ -1,11 +1,11 @@
 Curso de jQuery Mobile
 ======================
 
-## Descripcion:
+## Descripción:
 
 **Objetivo:**
 
-> Que el estudiante se vuelva un maquetador de interfaces moviles, utilizando jQuery mobile. Por lo que el usuario estaria en capacidad de manejar los elementos principales de la libreria, como son:
+> Que el estudiante se vuelva un maquetador de interfaces móviles, utilizando jQuery mobile. Por lo que el usuario estaría en capacidad de manejar los elementos principales de la librería, como son:
 >
 >* Data Roles:  page, header, content, footer, etc.
 >* Content Widgets: buttons, form elements, collapsibles, accordions, popups, dialogs, responsive tables
@@ -15,14 +15,14 @@ Curso de jQuery Mobile
 
 **Target:**
 
-> Desarrolladores front-end y disenadores web
+> Desarrolladores front-end y diseñadores web
 
 **Requisitos:**
 
 > Conocimiento intermedio de HTML/CSS/CSS3, conocimiento basico de HTML5, conocimiento de la libreria jQuery (no jQuery mobile)
 
-**Duracion:**
+**Duración:**
 
-> 25 Horas Academicas
+> 25 Horas académicas
 
 ## Contenido

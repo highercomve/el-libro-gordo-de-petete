@@ -34,6 +34,7 @@ El manejador de paquetes se utiliza presionando CTRL+SHIFT+P y buscando "package
 * Alignment (ctrl + alt+ a)
 * All Autocomplete
 * AutoFileName
+* BracketHighlighter
 * Terminal
 * Markdown Preview
 * Git
