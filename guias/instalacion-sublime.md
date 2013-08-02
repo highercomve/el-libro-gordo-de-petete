@@ -1,4 +1,4 @@
-Instalacion de Sublime-text en Ubuntu
+Instalacion de Sublime-text 2 en Ubuntu
 =====================================
 
 Agregar los repositorios PPA webupd8team
@@ -28,7 +28,6 @@ El manejador de paquetes se utiliza presionando CTRL+SHIFT+P y buscando "package
 
 * Emmet
 * Color Picker (ctrl + shitf + c)
-* Placeholders
 * Prefixr
 * Tag (ctrl + alt+f )   para ordenar los html
 * Alignment (ctrl + alt+ a)
