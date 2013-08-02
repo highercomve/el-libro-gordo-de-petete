@@ -1,4 +1,4 @@
-Instalacion de Sublime-text 2 en Ubuntu
+Instalacion de Sublime-text 3 en Ubuntu
 =======================================
 
 Agregar los repositorios PPA webupd8team
@@ -44,3 +44,4 @@ El manejador de paquetes se utiliza presionando CTRL+SHIFT+P y buscando "package
 * Terminal
 * Markdown Preview
 * Git
+* View in Browser
