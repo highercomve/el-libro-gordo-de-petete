@@ -50,7 +50,7 @@ Agregar a el PATH las siguientes carpetas que estan dentro del SDK
 
 El resultado podria ser algo asi:
 
-	export PATH=$PATH:/home/sergio/Proyectos/android/sdk/tools:/home/sergio/Proyectos/android/sdk/build-tools:/home/sergio/Proyectos/android/sdk/platform-tools/ 
+	export PATH=$PATH:/home/sergio/android/sdk/tools:/home/sergio/android/sdk/build-tools:/home/sergio/android/sdk/platform-tools/ 
 
 Instalacion de Ruboto
 
