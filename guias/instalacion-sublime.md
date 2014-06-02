@@ -29,7 +29,7 @@ El manejador de paquetes se utiliza presionando CTRL+SHIFT+P y buscando "package
 * Emmet
 * Color Picker (ctrl + shitf + c)
 * Prefixr
-* Tag (ctrl + alt+f )   para ordenar los html
+* HTMLBeautify
 * Alignment (ctrl + alt+ a)
 * All Autocomplete
 * AutoFileName
