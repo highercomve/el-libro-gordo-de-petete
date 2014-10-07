@@ -14,7 +14,7 @@ Descomentar #password_encryption = on
 
 Salvar el archivo y reiniciar
 
-    sudo service postgres restart
+    sudo service postgresql restart
 
 3.- Crear un usuario para postgre
 
