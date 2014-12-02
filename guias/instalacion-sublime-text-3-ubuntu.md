@@ -14,19 +14,7 @@ Instalar Sublime-text-3 (eliminara el sublime-text 2)
 
 ### Instalación del manejador de paquetes
 
-Lo primero que hay que hacer es ir a la ruta donde el Sublime maneja los paquetes. En el caso de ubuntu es la siguiente:
-
-	cd ~/.config/sublime-text-3/Packages
-
-En caso de OS X debe ser algo parecido a esto:
-
-	cd ~/Application\ Suport/Sublime\ Text\ 3/Packages
-
-Ya dentro de la carpeta Packages procedemos a instalar el "Package Control"
-
-	git clone https://github.com/wbond/sublime_package_control.git "Package Control"
-	cd "Package Control"
-	git checkout python3
+Para instalacion de el manejador de paquetes visitar: [Este enlace](https://sublime.wbond.net/installation)
 
 ### Instalar desde el manejador de paquetes los siguientes plugins.
 
