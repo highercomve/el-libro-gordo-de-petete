@@ -5,6 +5,8 @@ Instalacion de rails con RVM
 
     sudo apt-get update
     sudo apt-get install curl
+
+    gpg --keyserver hkp://keys.gnupg.net --recv-keys D39DC0E3
     
     \curl -L https://get.rvm.io | bash -s stable
     
